@@ -1,3 +1,9 @@
+# KubeCon in CHINESE    
+
+https://github.com/cncf/presentations/tree/master/chinese  
+
+
+
 # KubeCon-China-2019
 
 
